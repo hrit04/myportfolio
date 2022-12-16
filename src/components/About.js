@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../assests/IMG_1964_cmp.jpg";
+import Image from "../assests/IMG_1964_cmp.png";
 import { useInView } from "react-intersection-observer";
 
 const skills = [
